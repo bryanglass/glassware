@@ -105,7 +105,7 @@ const pickSpreadsheet = async () => {
           onPress={() => setScreen('whiteboardSelect')}
         >
           <Text style={styles.buttonText}>
-            {language === 'en' ? 'FIRE Whiteboards' : 'FIRE Pizarras'}
+            {language === 'en' ? 'SLAYER' : 'SLAYER in ESP'}
           </Text>
         </TouchableOpacity>
 
